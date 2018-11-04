@@ -22,3 +22,9 @@ Replicar o site **Lyft** com ajuda do Perfect Pixel.
   ![Lyft - Footer](docs/footer.gif)
   
 * Usar o `iframe` do youtube.
+
+### Técnologias utilizadas:
+
+* HTML5
+* CSS3
+* Perfect Pixel
