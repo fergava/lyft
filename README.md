@@ -23,7 +23,7 @@ Replicar o site **Lyft** com ajuda do Perfect Pixel.
   
 * Usar o `iframe` do youtube.
 
-### Técnologias utilizadas:
+## Técnologias utilizadas:
 
 * HTML5
 * CSS3
